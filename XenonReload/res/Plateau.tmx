@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="24" tileheight="16">
+ <tileset firstgid="1" name="MapExemple" tilewidth="24" tileheight="16">
+  <image source="1142711270.png" width="192" height="16"/>
+  <tile id="7">
+   <properties>
+    <property name="Bloquer" value="0"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Air" width="20" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpJxADrnAGR
+  </data>
+ </layer>
+ <layer name="Monde" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi8gGmgHYAGmKGYFuYONoAe9rTyOza7SAG0dBchgO5uDjxqSXUnBxKmFHBgwejuIsV9+MwjBFiAmJWK5rEBMTsF5qG7h1jzcJmLrp9S8/CpHQwYAE9RAuY=
+  </data>
+ </layer>
+</map>
